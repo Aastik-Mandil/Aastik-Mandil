@@ -8,7 +8,10 @@
 
 ### 📬 Connect With Me
 
- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastikmandil123/)[![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/Aastik-Mandil)[![](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AastikMandil2)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastikmandil123/)
+[![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/Aastik-Mandil)
+[![](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AastikMandil2)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@astik24mandilkota)
 
 ---
 
