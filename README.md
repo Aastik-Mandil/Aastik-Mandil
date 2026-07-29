@@ -1,6 +1,6 @@
 ##  Hi 👋, I'm Aastik!, Thanks for visiting at my profile!
 
-#### 🚀 Frontend Developer | 4+ Years of Experience | React.js | JavaScript
+#### 🚀 Frontend Developer | 5 Years of Experience | React.js | JavaScript
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=React.js+Developer+%7C+4%2B+Years+Experience;JavaScript+%7C+ES6%2B+%7C+TypeScript;Responsive+Design+with+HTML5+%26+CSS3;Reusable+Components+%7C+Hooks;Passionate+about+Clean+%26+Performant+Code)
 
