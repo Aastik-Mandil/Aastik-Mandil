@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-🌟 I’m a passionate and results-driven **Front-End Developer with 5+ years of experience**, currently working at **ASM Technologies**.
+🌟 I’m a passionate and results-driven **Front-End Developer with 5 years of experience**, currently working at **ASM Technologies**.
 
 💼 I specialize in developing dynamic, user-friendly websites and applications. I’ve delivered **5+ mini and major projects** using **React.js** – explore them on my GitHub.
 
